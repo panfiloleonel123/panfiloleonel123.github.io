@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "name": "HUAWEI Y8s VERDE",
+    "price": 499,
+    "salePrice": 699,
+    "pictures": [
+      {
+        "small": "assets/images/product/17697475_1.jpg",
+        "big": "assets/images/product/17697475_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17697475_4.jpg",
+        "big": "assets/images/product/17697475_4.jpg"
+      }
+    ],
+    "shortDetails": "Características destacadas\nCámara posterior: 48+2MP\nCámara frontal: 8MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 64GB\nNúcleos del procesador: Octa Core",
+    "description": "Características destacadas\nCámara posterior: 48+2MP\nCámara frontal: 8MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 64GB\nNúcleos del procesador: Octa Core",
+    "stock": 5,
+    "brand": "HUAWEI",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Redmi 9 Verde 64GB\n\n",
+    "price": 399,
+    "salePrice": 599,
+    "pictures": [
+      {
+        "small": "assets/images/product/17543969_1.jpg",
+        "big": "assets/images/product/17543969_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17543969_3.jpg",
+        "big": "assets/images/product/17543969_3.jpg"
+      }
+    ],
+    "shortDetails": "Cámara posterior: 13MP\nCámara frontal: 8MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 64GB\nNúcleos del procesador: Octa Core, RAM:3GB , MEMORIA 64GB",
+    "description": "Cámara posterior: 13MP\nCámara frontal: 8MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 64GB\nNúcleos del procesador: Octa Core, RAM:3GB , MEMORIA 64GB",
+    "stock": 5,
+    "brand": "XIAOMI",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Celular Redmi 9 64Gb Sunset\n\n",
+    "price": 399,
+    "salePrice": 599,
+    "pictures": [
+      {
+        "small": "assets/images/product/17656526_1.jpg",
+        "big": "assets/images/product/17656526_1.jpg"
+      }
+    ],
+    "shortDetails": "Lector de huella: Sí\nMarca y modelo del procesador: Mediatek Helio G80\nMemoria expandible: Hasta 256GB\nMemoria interna: 64GB\nMemoria RAM: 3GB",
+    "description": "Lector de huella: Sí\nMarca y modelo del procesador: Mediatek Helio G80\nMemoria expandible: Hasta 256GB\nMemoria interna: 64GB\nMemoria RAM: 3GB",
+    "stock": 5,
+    "brand": "XIAOMI",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Celular Redmi 9C 32Gb\n\n",
+    "price": 369,
+    "salePrice": 469,
+    "pictures": [
+      {
+        "small": "assets/images/product/17613828_1.jpg",
+        "big": "assets/images/product/17613828_1.jpg"
+      }
+    ],
+    "shortDetails": "Lector de huella: Sí\nMarca y modelo del procesador: MediaTek Helio G35\nMemoria expandible: No aplica\nMemoria interna: 32GB\nMemoria RAM: 2GB",
+    "description": "Lector de huella: Sí\nMarca y modelo del procesador: MediaTek Helio G35\nMemoria expandible: No aplica\nMemoria interna: 32GB\nMemoria RAM: 2GB",
+    "stock": 5,
+    "brand": "XIAOMI",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Celular Redmi 9C 32Gb NARANJA\n\n",
+    "price": 369,
+    "salePrice": 469,
+    "pictures": [
+      {
+        "small": "assets/images/product/redmi9c026987.jpg",
+        "big": "assets/images/product/redmi9c026987.jpg"
+      }
+    ],
+    "shortDetails": "Lector de huella: Sí\nMarca y modelo del procesador: MediaTek Helio G35\nMemoria expandible: No aplica\nMemoria interna: 32GB\nMemoria RAM: 2GB",
+    "description": "Lector de huella: Sí\nMarca y modelo del procesador: MediaTek Helio G35\nMemoria expandible: No aplica\nMemoria interna: 32GB\nMemoria RAM: 2GB",
+    "stock": 5,
+    "brand": "XIAOMI",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Redmi 9A, 2GB RAM, 32GB ROM",
+    "price": 369,
+    "salePrice": 469,
+    "pictures": [
+      {
+        "small": "assets/images/product/redmi-9a-negro5156.jpg",
+        "big": "assets/images/product/redmi-9a-negro5156.jpg"
+      }
+    ],
+    "shortDetails": "Pantalla: 6.53″, 720 x 1600 pixels\nProcesador: Mediatek Helio G25 2GHz\nRAM: 2GB\nAlmacenamiento: 32GB\nExpansión: microSD",
+    "description": "Pantalla: 6.53″, 720 x 1600 pixels\nProcesador: Mediatek Helio G25 2GHz\nRAM: 2GB\nAlmacenamiento: 32GB\nExpansión: microSD",
+    "stock": 5,
+    "brand": "XIAOMI",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Redmi Note 9 Verde\n\n",
+    "price": 599,
+    "salePrice": 749,
+    "pictures": [
+      {
+        "small": "assets/images/product/17543970_1.jpg",
+        "big": "assets/images/product/17543970_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17543970_3.jpg",
+        "big": "assets/images/product/17543970_3.jpg"
+      },
+      {
+        "small": "assets/images/product/17543970_4.jpg",
+        "big": "assets/images/product/17543970_4.jpg"
+      }
+    ],
+    "shortDetails": "Cámara posterior: Sobre 40MP\nCámara frontal: 13MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Octa Core",
+    "description": "Cámara posterior: Sobre 40MP\nCámara frontal: 13MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Octa Core",
+    "stock": 5,
+    "brand": "XIAOMI",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Motorola One Macro Azul\n\n",
+    "price": 459,
+    "salePrice": 629,
+    "pictures": [
+      {
+        "small": "assets/images/product/17483222_1.jpg",
+        "big": "assets/images/product/17483222_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17483222_2.jpg",
+        "big": "assets/images/product/17483222_2.jpg"
+      },
+      {
+        "small": "assets/images/product/17483222_5.jpg",
+        "big": "assets/images/product/17483222_5.jpg"
+      },
+      {
+        "small": "assets/images/product/17483222_3.jpg",
+        "big": "assets/images/product/17483222_3.jpg"
+      }
+    ],
+    "shortDetails": "Marca: Motorola\nModelo: XT2016-2\nTipo: Smartphones\nCámara posterior: 17MP\nCámara frontal: 8MP",
+    "description": "Marca: Motorola\nModelo: XT2016-2\nTipo: Smartphones\nCámara posterior: 17MP\nCámara frontal: 8MP",
+    "stock": 5,
+    "brand": "MOTOROLA",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "GALAXY A51 Negro\n\nshare icon\n\n",
+    "price": 799,
+    "salePrice": 1099,
+    "pictures": [
+      {
+        "small": "assets/images/product/17446218_1.jpg",
+        "big": "assets/images/product/17446218_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17446218_2.jpg",
+        "big": "assets/images/product/17446218_2.jpg"
+      }
+    ],
+    "shortDetails": "Marca: Samsung\nModelo: SM-A515F/DS\nTipo: Smartphones\nCámara posterior: Sobre 40MP\nCámara frontal: 32MP, RAM: 4GB",
+    "description": "Marca: Samsung\nModelo: SM-A515F/DS\nTipo: Smartphones\nCámara posterior: Sobre 40MP\nCámara frontal: 32MP, RAM: 4GB",
+    "stock": 5,
+    "brand": "SAMSUNG",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "GALAXY A11 BLANCO",
+    "price": 469,
+    "salePrice": 599,
+    "pictures": [
+      {
+        "small": "assets/images/product/17585592_1.jpg",
+        "big": "assets/images/product/17585592_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17585592_2.jpg",
+        "big": "assets/images/product/17585592_2.jpg"
+      }
+    ],
+    "shortDetails": "Cámara posterior: 13MP\nCámara frontal: 8MP\nTamaño de la pantalla: 6.4 pulgadas\nMemoria interna: 32GB\nNúcleos del procesador: Octa Core",
+    "description": "Cámara posterior: 13MP\nCámara frontal: 8MP\nTamaño de la pantalla: 6.4 pulgadas\nMemoria interna: 32GB\nNúcleos del procesador: Octa Core",
+    "stock": 5,
+    "brand": "SAMSUNG",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "GALAXY A71 NEGRO",
+    "price": 1299,
+    "salePrice": 1499,
+    "pictures": [
+      {
+        "small": "assets/images/product/17585599_1.jpg",
+        "big": "assets/images/product/17585599_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17585599_2.jpg",
+        "big": "assets/images/product/17585599_2.jpg"
+      }
+    ],
+    "shortDetails": "Cámara posterior: Sobre 40MP\nCámara frontal: 32MP\nTamaño de la pantalla: 6.7 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Octa Core, 6GB RAM",
+    "description": "Cámara posterior: Sobre 40MP\nCámara frontal: 32MP\nTamaño de la pantalla: 6.7 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Octa Core, 6GB RAM",
+    "stock": 5,
+    "brand": "SAMSUNG",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Motorola E6 Play Negro",
+    "price": 349,
+    "salePrice": 459,
+    "pictures": [
+      {
+        "small": "assets/images/product/17688878_1.jpg",
+        "big": "assets/images/product/17688878_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17688878_2.jpg",
+        "big": "assets/images/product/17688878_2.jpg"
+      },
+      {
+        "small": "assets/images/product/17688878_4.jpg",
+        "big": "assets/images/product/17688878_4.jpg"
+      }
+    ],
+    "shortDetails": "Cámara posterior: 13MP\nCámara frontal: 5MP\nTamaño de la pantalla: 5.3 pulgadas\nMemoria interna: 32GB\nNúcleos del procesador: Quad Core,2GB RAM",
+    "description": "Cámara posterior: 13MP\nCámara frontal: 5MP\nTamaño de la pantalla: 5.3 pulgadas\nMemoria interna: 32GB\nNúcleos del procesador: Quad Core,2GB RAM",
+    "stock": 5,
+    "brand": "MOTOROLA",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Galaxy A31 Blanco\n\n",
+    "price": 699,
+    "salePrice": 799,
+    "pictures": [
+      {
+        "small": "assets/images/product/17515225_1.jpg",
+        "big": "assets/images/product/17515225_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17515225_2.jpg",
+        "big": "assets/images/product/17515225_2.jpg"
+      }
+    ],
+    "shortDetails": "Marca: Samsung\nModelo: SM-A315G/DS\nTipo: Smartphones\nCámara posterior: Sobre 40MP\nCámara frontal: 20M, 4GB RAM",
+    "description": "Marca: Samsung\nModelo: SM-A315G/DS\nTipo: Smartphones\nCámara posterior: Sobre 40MP\nCámara frontal: 20MP, 4GB RAM",
+    "stock": 5,
+    "brand": "SAMSUNG",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Galaxy A21s\n\n",
+    "price": 599,
+    "salePrice": 699,
+    "pictures": [
+      {
+        "small": "assets/images/product/17547476_1.jpg",
+        "big": "assets/images/product/17547476_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17547476_2.jpg",
+        "big": "assets/images/product/17547476_2.jpg"
+      }
+    ],
+    "shortDetails": "Marca: Samsung Galaxy\nModelo: SM-A217MZKEPEO\nTipo: Smartphones\nCámara posterior: Sobre 40MP\nCámara frontal: 13MP, 4GB RAM",
+    "description": "Marca: Samsung Galaxy\nModelo: SM-A217MZKEPEO\nTipo: Smartphones\nCámara posterior: Sobre 40MP\nCámara frontal: 13MP, 4GB RAM",
+    "stock": 5,
+    "brand": "SAMSUNG",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Galaxy A01",
+    "price": 349,
+    "salePrice": 459,
+    "pictures": [
+      {
+        "small": "assets/images/product/17463984_1.jpg",
+        "big": "assets/images/product/17463984_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17463984_2.jpg",
+        "big": "assets/images/product/17463984_2.jpg"
+      }
+    ],
+    "shortDetails": "Marca: Samsung Galaxy\nModelo: SM-A015MZKBPEO\nTipo: Smartphones\nCámara posterior: 13MP\nCámara frontal: 5MP",
+    "description": "Marca: Samsung Galaxy\nModelo: SM-A015MZKBPEO\nTipo: Smartphones\nCámara posterior: 13MP\nCámara frontal: 5MP",
+    "stock": 5,
+    "brand": "SAMSUNG",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "GALAXY A51 AZUL\n\n",
+    "price": 899,
+    "salePrice": 1059,
+    "pictures": [
+      {
+        "small": "assets/images/product/17585598_1.jpg",
+        "big": "assets/images/product/17585598_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17585598_2.jpg",
+        "big": "assets/images/product/17585598_2.jpg"
+      }
+    ],
+    "shortDetails": "Cámara posterior: Sobre 40MP\nCámara frontal: 32MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Octa Core, RAM 4GB",
+    "description": "Cámara posterior: Sobre 40MP\nCámara frontal: 32MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Octa Core, RAM 4GB",
+    "stock": 5,
+    "brand": "SAMSUNG",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Apple iPhone 12 Pro 128GB Graphite",
+    "price": 4499,
+    "salePrice": 4999,
+    "pictures": [
+      {
+        "small": "assets/images/product/17763658_1.jpg",
+        "big": "assets/images/product/17763658_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17763658_2.jpg",
+        "big": "assets/images/product/17763658_2.jpg"
+      },
+      {
+        "small": "assets/images/product/17763658_3.jpg",
+        "big": "assets/images/product/17763658_3.jpg"
+      },
+      {
+        "small": "assets/images/product/17763658_4.jpg",
+        "big": "assets/images/product/17763658_4.jpg"
+      }
+    ],
+    "shortDetails": "Cámara posterior: 12 MP\nCámara frontal: 12MP\nTamaño de la pantalla: 6.1 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Hexa Core",
+    "description": "Cámara posterior: 12 MP\nCámara frontal: 12MP\nTamaño de la pantalla: 6.1 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Hexa Core",
+    "stock": 5,
+    "brand": "APPLE",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Iphone 11 128GB 4GB",
+    "price": 2999,
+    "salePrice": 3499,
+    "pictures": [
+      {
+        "small": "assets/images/product/17694182_1.jpg",
+        "big": "assets/images/product/17694182_1.jpg"
+      }
+    ],
+    "shortDetails": "Alto: 17\nAncho: 7\nCámara frontal: 12MP\nCámara principal: 12MP\nConectividad: 4G",
+    "description": "Alto: 17\nAncho: 7\nCámara frontal: 12MP\nCámara principal: 12MP\nConectividad: 4G",
+    "stock": 5,
+    "brand": "APPLE",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Redmi Note 8 64GB Moonlight white\n\n",
+    "price": 499,
+    "salePrice": 599,
+    "pictures": [
+      {
+        "small": "assets/images/product/17760203_1.jpg",
+        "big": "assets/images/product/17760203_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17760203_2.jpg",
+        "big": "assets/images/product/17760203_2.jpg"
+      }
+    ],
+    "shortDetails": "Alto: 15.83 cm\nAncho: 7.53 cm\nCámara frontal: 13MP\nCámara principal: 20MP\nBatería: 4000mAh, 4GB RAM",
+    "description": "Alto: 15.83 cm\nAncho: 7.53 cm\nCámara frontal: 13MP\nCámara principal: 20MP\nBatería: 4000mAh, 4GB RAM",
+    "stock": 5,
+    "brand": "XIAOMI",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Huawei Y7P 2019 blue + Mini speaker",
+    "price": 499,
+    "salePrice": 599,
+    "pictures": [
+      {
+        "small": "assets/images/product/17580345_1.jpg",
+        "big": "assets/images/product/17580345_1.jpg"
+      },
+      {
+        "small": "assets/images/product/17580345_2.jpg",
+        "big": "assets/images/product/17580345_2.jpg"
+      },
+      {
+        "small": "assets/images/product/17580345_3.jpg",
+        "big": "assets/images/product/17580345_3.jpg"
+      },
+      {
+        "small": "assets/images/product/17580345_4.jpg",
+        "big": "assets/images/product/17580345_4.jpg"
+      },
+      {
+        "small": "assets/images/product/17580345_5.jpg",
+        "big": "assets/images/product/17580345_5.jpg"
+      }
+    ],
+    "shortDetails": "",
+    "description": "",
+    "stock": 5,
+    "brand": "XIAOMI",
+    "newPro": true,
+    "sale": true,
+    "category": "CELULARES",
+    "tags": [
+      "nike",
+      "caprese",
+      "lifestyle"
+    ]
+  }
+]
