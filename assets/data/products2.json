@@ -154,8 +154,8 @@
   {
     "id": 6,
     "name": "Redmi Note 9 Verde\n\n",
-    "price": 599,
-    "salePrice": 749,
+    "price": 499,
+    "salePrice": 649,
     "pictures": [
       {
         "small": "assets/images/product/17543970_1.jpg",
@@ -170,8 +170,8 @@
         "big": "assets/images/product/17543970_4.jpg"
       }
     ],
-    "shortDetails": "Cámara posterior: Sobre 40MP\nCámara frontal: 13MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Octa Core",
-    "description": "Cámara posterior: Sobre 40MP\nCámara frontal: 13MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Octa Core",
+    "shortDetails": "Cámara posterior: Sobre 40MP\nCámara frontal: 13MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Octa Core, 4GB RAM",
+    "description": "Cámara posterior: Sobre 40MP\nCámara frontal: 13MP\nTamaño de la pantalla: 6.5 pulgadas\nMemoria interna: 128GB\nNúcleos del procesador: Octa Core, 4GB RAM",
     "stock": 5,
     "brand": "XIAOMI",
     "newPro": true,
